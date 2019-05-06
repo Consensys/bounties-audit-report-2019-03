@@ -1,0 +1,8 @@
+{
+  "project_name": "bounties",
+  "client_name": "bounties",
+  "github_repo": "ConsenSys/bounties-audit-2019-03",
+  "internal_audit_repo": "https://github.com/ConsenSys/bounties-audit-2019-03",
+  "github_todo_audit_repo": "https://github.com/ConsenSys/todo-audits",
+  "template": "variant-1"
+}
